@@ -19,11 +19,11 @@
 
     "require": {
         "php":                      ">=5.3.3",
-        "symfony/console":          "~2.1",
-        "symfony/event-dispatcher": "~2.1",
-        "symfony/finder":           "~2.1",
-        "symfony/yaml":             "~2.1",
-        "mockery/mockery":          "0.7.*",
+        "symfony/console":          "*",
+        "symfony/event-dispatcher": "*",
+        "symfony/finder":           "*",
+        "symfony/yaml":             "*",
+        "mockery/mockery":          "*",
         "phpspec/php-diff":         "*"
     },
 
